@@ -1,54 +1,53 @@
 
-            # Generator Test 1.0
+# Generator Test 2.0
 
-            ![license_badge](https://img.shields.io/badge/license-MIT-green)
+![license_badge](https://img.shields.io/badge/license-MIT-green)
 
-            ## Description
+## Description
 
-            This is the first test of the readme generator.
+This is the second test. I moved the text input with no indentation
 
-            ## Table of Contents
+## Table of Contents
 
-            - [Installation](#installation)
-            - [Usage](#usage)
-            - [Credits](#credits)
-            - [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-            ## Installation
+## Installation
 
-            N/A
+none
 
-            ## Usage
+## Usage
 
-            run the index.js file and answer the prompts accordingly. Then a new README.md file will be created
+use it
 
-            ## Credits
+## Credits
 
-            Credit by me
+credit by me
 
-            ## License
+## License
 
-            MIT
+MIT
 
-            ## Badges
+## Badges
 
-            ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
-            Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
-            ## How to Contribute
+## How to Contribute
 
-            Please don't contribute.
+don't contribute
 
-            ## Tests
+## Tests
 
-            Testing right now
+still testing
 
-            ## Questions
+## Questions
 
-            For questions/inquiries, please direct them to:
+For questions/inquiries, please direct them to:
 
-            [GitHub Profile](https://github.com/ajprobel)
-            Email: jprobel@yahoo.com
+[GitHub Profile](https://github.com/ajprobel)
+Email: jprobel@yahoo.com
 
-            
