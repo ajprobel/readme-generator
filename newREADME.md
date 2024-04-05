@@ -1,11 +1,11 @@
 
-# Generator Test 2.0
+# Generator Video Test v1.0
 
 ![license_badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
 
-This is the second test. I moved the text input with no indentation
+This is a README generator, and I am currently making a new README for a video recording
 
 ## Table of Contents
 
@@ -13,41 +13,37 @@ This is the second test. I moved the text input with no indentation
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Questions](#questions)
 
 ## Installation
 
-none
+N/A
 
 ## Usage
 
-use it
+Go to (insert website here), and follow the directions
 
 ## Credits
 
-credit by me
+Created by me, James Probel.
 
 ## License
 
-MIT
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+License: MIT
 
 ## How to Contribute
 
-don't contribute
+Please don't contribute!
 
 ## Tests
 
-still testing
+We've done so many tests!
 
 ## Questions
 
 For questions/inquiries, please direct them to:
 
 [GitHub Profile](https://github.com/ajprobel)
+
 Email: jprobel@yahoo.com
 
