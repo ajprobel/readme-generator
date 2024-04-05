@@ -42,7 +42,7 @@ const questions = [
     {
         type: 'list',
         message: 'List all testing information',
-        choices: ['No License', 'MIT License', 'Other License'],
+        choices: ['No License', 'MIT', 'GNU GPLv3', 'ISC', 'Apache License 2.0'],
         name: 'license',
     },
     {
@@ -71,57 +71,59 @@ function init() {
             console.log(response);
             const { title, description, installation, usage, contribution, credit, test, license, username, email } = response;
             const readMeText = `
-            # ${title}
+# ${title}
 
-            ## Description
+![license_badge](https://img.shields.io/badge/license-${license}-green)
 
-            ${description}
+## Description
 
-            ## Table of Contents
+${description}
 
-            - [Installation](#installation)
-            - [Usage](#usage)
-            - [Credits](#credits)
-            - [License](#license)
+## Table of Contents
 
-            ## Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-            ${installation}
+## Installation
 
-            ## Usage
+${installation}
 
-            ${usage}
+## Usage
 
-            ## Credits
+${usage}
 
-            ${credit}
+## Credits
 
-            ## License
+${credit}
 
-            ${license}
+## License
 
-            ## Badges
+${license}
 
-            ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+## Badges
 
-            Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
-            ## How to Contribute
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
-            ${contribution}
+## How to Contribute
 
-            ## Tests
+${contribution}
 
-            ${test}
+## Tests
 
-            ## Questions
+${test}
 
-            For questions/inquiries, please direct them to:
-            
-            [GitHub Profile](https://github.com/${username})
-            Email: ${email}
+## Questions
 
-            `;
+For questions/inquiries, please direct them to:
+
+[GitHub Profile](https://github.com/${username})
+Email: ${email}
+
+`;
             writeToFile("newREADME.md", readMeText);
         })
 }
