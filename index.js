@@ -60,7 +60,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
-        err ? console.error(err) : console.log('HTML appended!'))
+        err ? console.error(err) : console.log('Input Received!'))
 }
 
 // TODO: Create a function to initialize app

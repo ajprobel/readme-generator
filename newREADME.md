@@ -1,11 +1,11 @@
 
-# Generator Video Test v1.0
+# README Generator Video Test v1.0
 
 ![license_badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
 
-This is a README generator, and I am currently making a new README for a video recording
+This is generating a README.md that I am making while filming a tutorial video.
 
 ## Table of Contents
 
@@ -21,11 +21,11 @@ N/A
 
 ## Usage
 
-Go to (insert website here), and follow the directions
+You can use it! Step 1: Use it!
 
 ## Credits
 
-Created by me, James Probel.
+Credit by me; James Probel
 
 ## License
 
@@ -33,11 +33,11 @@ License: MIT
 
 ## How to Contribute
 
-Please don't contribute!
+Yes, please contribute!
 
 ## Tests
 
-We've done so many tests!
+Yes, we're testing now!
 
 ## Questions
 
