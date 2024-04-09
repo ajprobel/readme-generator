@@ -1,11 +1,11 @@
 
-# Your Title Here
+# Title
 
-![license_badge](https://img.shields.io/badge/license-Apache License 2.0-green)
+![license_badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
 
-Your description here
+Description
 
 ## Table of Contents
 
@@ -17,33 +17,33 @@ Your description here
 
 ## Installation
 
-Your Installation Instructions here
+N/A
 
 ## Usage
 
-Your usage instructions here
+Usage Here
 
 ## Credits
 
-Your credits here
+Credit
 
 ## License
 
-License: Apache License 2.0
+License: MIT
 
 ## How to Contribute
 
-Directions for users to contribute to your project here
+Contribution here
 
 ## Tests
 
-Testing Information Here
+Tests
 
 ## Questions
 
 For questions/inquiries, please direct them to:
 
-[GitHub Profile](https://github.com/username)
+[GitHub Profile](https://github.com/ajprobel)
 
-Email: address@email.com
+Email: jprobel@yahoo.com
 
