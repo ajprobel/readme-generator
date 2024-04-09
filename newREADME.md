@@ -1,11 +1,11 @@
 
-# README Generator Video Test v1.0
+# Your Title Here
 
-![license_badge](https://img.shields.io/badge/license-MIT-green)
+![license_badge](https://img.shields.io/badge/license-Apache License 2.0-green)
 
 ## Description
 
-This is generating a README.md that I am making while filming a tutorial video.
+Your description here
 
 ## Table of Contents
 
@@ -17,33 +17,33 @@ This is generating a README.md that I am making while filming a tutorial video.
 
 ## Installation
 
-N/A
+Your Installation Instructions here
 
 ## Usage
 
-You can use it! Step 1: Use it!
+Your usage instructions here
 
 ## Credits
 
-Credit by me; James Probel
+Your credits here
 
 ## License
 
-License: MIT
+License: Apache License 2.0
 
 ## How to Contribute
 
-Yes, please contribute!
+Directions for users to contribute to your project here
 
 ## Tests
 
-Yes, we're testing now!
+Testing Information Here
 
 ## Questions
 
 For questions/inquiries, please direct them to:
 
-[GitHub Profile](https://github.com/ajprobel)
+[GitHub Profile](https://github.com/username)
 
-Email: jprobel@yahoo.com
+Email: address@email.com
 

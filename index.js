@@ -1,8 +1,8 @@
-// TODO: Include packages needed for this application
+// Includes needed packages
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-// TODO: Create an array of questions for user input
+// Defining questions for use in inquirer
 const questions = [
     {
         type: 'input',
@@ -42,7 +42,7 @@ const questions = [
     {
         type: 'list',
         message: 'List all testing information',
-        choices: ['No License', 'MIT', 'GNU GPLv3', 'ISC', 'Apache License 2.0'],
+        choices: ['No_License', 'MIT', 'GNU_GPLv3', 'ISC', 'Apache_License_2.0'],
         name: 'license',
     },
     {
@@ -57,13 +57,13 @@ const questions = [
     },
 ];
 
-// TODO: Create a function to write README file
+// Defines function to write a file with data input
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) =>
         err ? console.error(err) : console.log('Input Received!'))
 }
 
-// TODO: Create a function to initialize app
+// Defines function when index.js is run. Uses prompt questions and passes input into string literal for README.md
 function init() {
     inquirer
         .prompt(questions)
