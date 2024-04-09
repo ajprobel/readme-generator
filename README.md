@@ -18,6 +18,8 @@ In Git Bash, run "node index.js" to start the process.
 
 ## Usage
 
+Please use [this video](https://www.youtube.com/watch?v=hiI5AuiM_aU) as a demo for use!
+
 Once the code has been cloned, and you've ensured that both Node.js and NPM Inquirer (v8.2.4), in the terminal, run "node index.js"
 
 Follow the series of prompts that show up in the terminal, and input information about your project accordingly.
@@ -29,6 +31,8 @@ a new markdown file titled "newREADME.md" will be created in the project - forma
 ![screenshot1](./assets/images/screenshot1.png)
 
 ![screenshot2](./assets/images/screenshot2.png)
+
+![screenshot3](./assets/images/screenshot3.png)
     
 
 ## Credits
